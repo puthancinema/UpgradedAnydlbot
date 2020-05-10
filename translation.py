@@ -7,7 +7,7 @@ class Translation(object):
 
  **For** **More** **Better** **Use**
  
- @AnyDLBot
+
  
 **👉** Upload Files To Telegram
 
