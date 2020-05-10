@@ -1,13 +1,11 @@
 class Translation(object):
-    START_TEXT = """ **Hi,** **Welcome** **To** **@MultiDL_Bot**
+    START_TEXT = """ **Hi,** **Welcome** **To** **@skrenamdl_bot**
     
 **/help** **to** **Know** **how** **to** **use** **me..!!**
 
-**My** **Credits** **to** **:** **@Amal_PM**
+**My** **Credits** **to** **:** **@SF_Movies**
 
- **For** **More** **Better** **Use**
- 
- @AnyDLBot
+
  
 **👉** Upload Files To Telegram
 
@@ -19,14 +17,14 @@ class Translation(object):
  
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    # UPGRADE_TEXT = "no one gonna help you 🤣🤣🤣🤣"
+    # UPGRADE_TEXT = "👉  This is Free Service. No Upgrade Plans😊..   /start for Details"
     
     FORMAT_SELECTION = "Got the file. \n now sent me a image if you want to set as custom thumbnail \n and then click the needed format from the below buttons."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@GetPublicLinkBot URL detected. Please do not abuse the service!"
-    DOWNLOAD_START = "**Trying** **to** **Download..📥**"
-    UPLOAD_START = "**Trying** **to** **Upload..📤**"
+    DOWNLOAD_START = "**Trying** **to** **Download..🥺**"
+    UPLOAD_START = "**Trying** **to** **Upload..💥**"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank** **you** **For** **using** **Me** **!!**"
